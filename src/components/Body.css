@@ -1,0 +1,11 @@
+.inner-page-banner{
+    background: url("https://www.tutorfinder.co.uk/assets/images/inner-banner.jpg") no-repeat center center;
+    background-size:cover;
+    height: 500px;
+    
+    padding: 7% 0;
+}
+
+.whiteText {
+    color: white;
+}
